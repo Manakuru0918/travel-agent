@@ -1,6 +1,6 @@
 langchain
 langgraph
-streamlilt
+streamlit
 langchain-groq
 python-dotenv
 pydantic
